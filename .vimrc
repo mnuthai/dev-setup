@@ -1,11 +1,11 @@
 " Pathogen support
-runtime bundle/vim-pathogen/autoload/pathogen.vim
-call pathogen#infect()
+"runtime bundle/vim-pathogen/autoload/pathogen.vim
+"call pathogen#infect()
 filetype plugin on
 
 " Background Prettiness
 set background=dark
-colorscheme molokai
+" colorscheme molokai
 " Make pasting easier
 set paste
 " Make Vim more useful
